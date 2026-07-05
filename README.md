@@ -49,7 +49,7 @@ Input (YouTube URL / local file)
 
 ```bash
 git clone <this-repo-url>
-cd AI-Video-Assistant--main
+cd AI-Video_Assistant
 python -m venv venv
 source venv/bin/activate      # Windows: venv\Scripts\activate
 pip install -r Requirements.txt
